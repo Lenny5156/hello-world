@@ -1,2 +1,2 @@
 # hello-world
-pTesting with GitHub
+Testing with GitHub
